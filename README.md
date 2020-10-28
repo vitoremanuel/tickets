@@ -4,9 +4,6 @@ Nesse desafio, a tarefa é implementar uma API REST que tenha os endpoints de um
 
 Um Ticket consiste de uma ocorrência de algum problema, com os seguintes campos:
 
-* Description: uma descrição do problema
-* AuthorName: nome do autor do Ticket
-* Date: data de criação do ticket
 
 O uso de qualquer linguagem e/ou framework é livre, desde que os dados sejam persistidos em alguma base de dados.
 
