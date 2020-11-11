@@ -1,12 +1,6 @@
-# Desafio Backend #
+# Desafio Backend  #
 
 Nesse desafio, a tarefa é implementar uma API REST que tenha os endpoints de um CRUD de Tickets do Trílogo. Eles deverão fazer parte da rota  _/api/tickets_.
-
-Um Ticket consiste de uma ocorrência de algum problema, com os seguintes campos:
-
-Alteração simples de texto para exemplo
-Texte simples para o jenkins estar funcionando
-
 
 O uso de qualquer linguagem e/ou framework é livre, desde que os dados sejam persistidos em alguma base de dados.
 
